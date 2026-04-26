@@ -12,9 +12,9 @@ with st.sidebar:
 
 st.info("FORMATION")
 st.markdown("""
-* Master Gestion et Developpement des Espaces Ruraux 2025-2026  
+* Master Gestion et Développement des Espaces Ruraux 2025-2026  
 * licence en Géographie Humaine 2023-2024
-* Brévet de Technicien Supérieur en Geomatique 2025-2026
+* Brévet de Technicien Supérieur en Géomatique 2025-2026
 * Baccarauréat en Sciences Humaines et Sociales 2020-2021
 """)
 
@@ -31,8 +31,9 @@ st.markdown("""
 * Topographie
 """)
 st.info("CERTIFICATIONS")
- 
-   
+st.markdown("""
+* Attestation en Bureautique Informatique
+""")
     
     
     
