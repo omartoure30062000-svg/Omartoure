@@ -1,6 +1,6 @@
 import streamlit as st
 st.info("PROFIL")
-st.text("Technicien Supérieur en Géomatique et Maitre en Géographie rurale,je combine expertise scientique et compétences numériques avancées.rigoureux et polyvalent,j'ai l'ambition de mettre mon double savoir-faire au service de votre entreprise afin de contribuer activement à la réussite de vos projets.")
+st.text("Technicien Supérieur en Géomatique et Maitre en Géographie rurale,je combine expertise scientifique et compétences numériques avancées.Rigoureux et polyvalent,j'ai l'ambition de mettre mon double savoir-faire au service de votre entreprise afin de contribuer activement à la réussite de vos projets.")
 
 with st.sidebar:
     st.header("OMAR TOURE")
